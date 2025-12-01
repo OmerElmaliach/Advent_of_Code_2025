@@ -1,0 +1,1 @@
+This is my poor attempt at AoC 2025
