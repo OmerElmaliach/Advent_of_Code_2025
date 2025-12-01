@@ -1,1 +1,1 @@
-This is my poor attempt at AoC 2025
+My poor attempt at AoC 2025
