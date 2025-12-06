@@ -12,6 +12,9 @@ vector<string> parse_data(ifstream& f) {
     return data;
 }
 
+/**
+ * Solution for part one
+ */
 long part_one(const vector<string>& data) {
     long sum = 0;
     for (string range : data) {
@@ -30,6 +33,9 @@ long part_one(const vector<string>& data) {
     return sum;
 }
 
+/**
+ * Solution for part two
+ */
 long part_two(const vector<string>& data) {
     long sum = 0;
     for (string range : data) {
