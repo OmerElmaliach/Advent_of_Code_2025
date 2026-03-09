@@ -1,5 +1,5 @@
 TARGET = main
-SRC = day7.cpp
+SRC = day8.cpp
 
 all: compile run clean
 
